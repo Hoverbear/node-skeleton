@@ -46,7 +46,7 @@ Getting the program onto your $PATH:
 ### /bin/node-skeleton ###
 This file is what is placed on your $PATH when you run `npm link`. All it does is fix the directory to this one, then import `index.js`, which runs the file.
 
-### index.js ###
+### /lib/skeleton.js ###
 This is your **main** file for your program. Please see it for details!
 
 ### /lib ###
